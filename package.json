@@ -1,0 +1,23 @@
+{
+  "name": "patika-fe-react-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okanozbek/patika-fe-react-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okanozbek/patika-fe-react-homework/issues"
+  },
+  "homepage": "https://github.com/okanozbek/patika-fe-react-homework#readme",
+  "devDependencies": {
+    "axios": "^0.27.2"
+  }
+}
